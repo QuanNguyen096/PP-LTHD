@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\BTTO\PP LTHDT\TH\bt1\bt2\Source.cpp(13,6): warning C4101: 'i': unreferenced local variable
+  bt2.vcxproj -> D:\BTTO\PP LTHDT\TH\bt1\Debug\bt2.exe

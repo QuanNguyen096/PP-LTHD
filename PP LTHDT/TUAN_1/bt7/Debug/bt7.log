@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (bt07.vcxproj, bt7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+D:\BTTO\PP LTHDT\TH\bt1\bt7\Source.cpp(17,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  bt7.vcxproj -> D:\BTTO\PP LTHDT\TH\bt1\Debug\BAI_07.exe

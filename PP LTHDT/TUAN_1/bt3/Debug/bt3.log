@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\BTTO\PP LTHDT\TH\bt1\bt3\Source.cpp(35): warning C4715: 'GiaiPT': not all control paths return a value
+  bt3.vcxproj -> D:\BTTO\PP LTHDT\TH\bt1\Debug\bt3.exe

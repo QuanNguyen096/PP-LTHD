@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\BTTO\PP LTHDT\TH\bt1\bt11\Source.cpp(48,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  bt11.vcxproj -> D:\BTTO\PP LTHDT\TH\bt1\Debug\bt11.exe
